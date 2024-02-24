@@ -8,6 +8,7 @@ This Python Port Scanner is a simple tool that allows you to scan ports on a tar
 - Multi-threaded scanning for faster results.
 - Real-time feedback on open ports.
 - Save scan results to a file for later analysis.
+- ![Screenshot 2024-02-25 002756](https://github.com/subchat/Network-Port-Scanner/assets/82167489/544139a9-4bd7-44f5-8f89-3c06d22a6aa0)
 
 ## Installation
 
