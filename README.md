@@ -12,13 +12,11 @@ This Python Port Scanner is a simple tool that allows you to scan ports on a tar
 ## Installation
 
 1. Clone the repository:
-
-
+   git clone https://github.com/subchat/Network-Port-Scanner.git
 2. Navigate to the repository directory:
-
-
+   You directly have the source file to run.
 3. Run the port scanner:
-
+   It's being a GUI model(Tkinter) it can run both in linux and windows. Start Scanning now.
 
 ## Usage
 
