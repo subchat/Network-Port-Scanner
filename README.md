@@ -8,7 +8,7 @@ This Port Seeker : A python Port Scanner is a simple tool that allows you to sca
 - Multi-threaded scanning for faster results.
 - Real-time feedback on open ports.
 - Save scan results to a file for later analysis.
-- ![Screenshot 2024-02-25 002756](https://github.com/subchat/Network-Port-Scanner/assets/82167489/544139a9-4bd7-44f5-8f89-3c06d22a6aa0)
+- ![Port Seeker](https://github.com/subchat/Network-Port-Scanner/assets/82167489/48028929-61fd-4a90-8590-ac5db7e4d73a)
 ![demo](https://github.com/subchat/Network-Port-Scanner/assets/82167489/a14eb5a3-58d4-46fa-9e37-4ad6064a1e77)
 ![log_file](https://github.com/subchat/Network-Port-Scanner/assets/82167489/22117689-f797-487b-afb8-eec1e4e569ff)
 
