@@ -1,6 +1,6 @@
-# Python Port Scanner
+# Port Seeker : A python Port Scanner
 
-This Python Port Scanner is a simple tool that allows you to scan ports on a target IP address or hostname. It supports TCP, UDP, and SYN scanning methods and provides real-time feedback on open ports.
+This Port Seeker : A python Port Scanner is a simple tool that allows you to scan ports on a target IP address or hostname. It supports TCP, UDP, and SYN scanning methods and provides real-time feedback on open ports.
 
 ## Features
 
@@ -9,6 +9,8 @@ This Python Port Scanner is a simple tool that allows you to scan ports on a tar
 - Real-time feedback on open ports.
 - Save scan results to a file for later analysis.
 - ![Screenshot 2024-02-25 002756](https://github.com/subchat/Network-Port-Scanner/assets/82167489/544139a9-4bd7-44f5-8f89-3c06d22a6aa0)
+![demo](https://github.com/subchat/Network-Port-Scanner/assets/82167489/a14eb5a3-58d4-46fa-9e37-4ad6064a1e77)
+![log_file](https://github.com/subchat/Network-Port-Scanner/assets/82167489/22117689-f797-487b-afb8-eec1e4e569ff)
 
 ## Installation
 
